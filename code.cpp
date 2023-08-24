@@ -1,7 +1,13 @@
 #include<iostream>
+
 using namespace std;
+
+int a = 10;
+int b = 20;
+int c;
+c = a + b;
+
 int main()
 {
-    cout<<"C++ Language:";
-    cout << "Python Language:" << endl;
+    cout << c << sizeof(C) << endl;
 }
